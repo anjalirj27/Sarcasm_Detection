@@ -1,5 +1,5 @@
-# Sarcasm_Detection
-# 🧠 Sarcasm Detection using Hierarchical BERT + BiLSTM + CNN
+
+#  Sarcasm Detection using Hierarchical BERT + BiLSTM + CNN
 
 This project implements a sarcasm detection system using a hybrid NLP architecture combining **BERT**, **BiLSTM**, and **CNN layers**. It identifies whether a given news headline is sarcastic or not.
 
